@@ -1,3 +1,9 @@
+""" 
+
+Ejercicios con NUNPY
+
+"""
+
 import numpy as np
 
 A = np.empty((2,3))
